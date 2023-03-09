@@ -1,6 +1,6 @@
 # Which command
 
-### Rereate a which program in C that works similarily to the which command. This program searchs through your PATH variable to find the directory or directories in which a target program is found 
+### Create program in C that mimics functionality of the which command. The program searchs through the PATH variable to find the directory or directories in which a target program is found 
 
 WHICH General Commands Manual                                                       
 
